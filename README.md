@@ -3,7 +3,7 @@ A simple backup script written in Python that only copies new or updated files. 
 
 ## Usage
 - Update the config.ini file with the Source directory you want to backup and the Backup directory that will be used.
-- Run.
+- Run backup.py.
 
 ## Future Updates
 - Remove files from the Backup directory that are no longer found in the Source directory to keep the two synchronized.
