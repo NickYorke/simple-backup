@@ -116,6 +116,7 @@ if __name__== "__main__":
     print("Files compared: " + str(File.fileCount))
     print("Files copied:   " + str(backupCount))
     print("                " + str(backupSize) + " bytes.")
-            
+    print()
+    
     input('Press <ENTER> to continue')
     exit()
